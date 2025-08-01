@@ -4,7 +4,6 @@ I'm a full-stack web and mobile app developer from Lahore, currently based in Is
 I'm passionate about building real-world digital solutions, especially for communities that are often left behind.  
 Outside of code, I lead Seerah study circles and design creative Islamic content for students.
 
----
 
 ## 🚀 What I'm Working On
 
@@ -13,7 +12,6 @@ Outside of code, I lead Seerah study circles and design creative Islamic content
 - **Campus Noor Grid** – A daily cartoon-style Islamic series to engage uni students in a fun way
 - Learning AI/ML and playing around with Raspberry Pi projects when I find the time
 
----
 
 ## 🛠️ Tech Stack I Use Often
 
@@ -26,7 +24,6 @@ Node.js, Express, MongoDB
 **Tools**  
 GitHub, Vercel, Render, Postman, Expo
 
----
 
 ## 📊 GitHub Stats
 
@@ -34,7 +31,6 @@ GitHub, Vercel, Render, Postman, Expo
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aown-aamir&layout=compact&theme=radical)](https://github.com/aown-aamir)
 
----
 
 ## 📫 Let's Connect
 
@@ -42,6 +38,5 @@ GitHub, Vercel, Render, Postman, Expo
 - [Upwork](https://www.upwork.com/freelancers/~your-profile)
 - [Portfolio / Brand: Lagger's Lab](https://yourportfolio.com)
 
----
 
 > Code with purpose. Build things that matter.
