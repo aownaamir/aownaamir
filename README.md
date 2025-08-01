@@ -5,7 +5,7 @@ I'm passionate about building real-world digital solutions, especially for commu
 Outside of code, I lead Seerah study circles and design creative Islamic content for students.
 
 
-## 🚀 What I'm Working On
+## What I'm Working On
 
 - **Ichra Commerce App** – A platform to connect local shopkeepers and residents (Next.js + MongoDB + Express)
 - **React Native Projects** – Building cross-platform apps with clean UI and simple logic
@@ -13,7 +13,7 @@ Outside of code, I lead Seerah study circles and design creative Islamic content
 - Learning AI/ML and playing around with Raspberry Pi projects when I find the time
 
 
-## 🛠️ Tech Stack I Use Often
+## Tech Stack I Use Often
 
 **Frontend**  
 React, Next.js, Tailwind CSS
@@ -25,18 +25,18 @@ Node.js, Express, MongoDB
 GitHub, Vercel, Render, Postman, Expo
 
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Aown's GitHub stats](https://github-readme-stats.vercel.app/api?username=aown-aamir&show_icons=true&theme=radical)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aown-aamir&layout=compact&theme=radical)](https://github.com/aown-aamir)
 
 
-## 📫 Let's Connect
+## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/aown-aamir/)
 - [Upwork](https://www.upwork.com/freelancers/~your-profile)
 - [Portfolio / Brand: Lagger's Lab](https://yourportfolio.com)
 
 
-> Code with purpose. Build things that matter.
+> Just assume some catchy stuff here 😎
