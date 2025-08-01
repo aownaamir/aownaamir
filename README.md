@@ -27,7 +27,7 @@ GitHub, Vercel, Render, Postman, Expo
 
 ## GitHub Stats
 
-![Aown's GitHub stats](https://github-readme-stats.vercel.app/api?username=aown-aamir&show_icons=true&theme=radical) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aown-aamir&layout=compact&theme=radical)](https://github.com/aown-aamir)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=aown-aamir&show_icons=true&theme=radical) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aown-aamir&layout=compact&theme=radical)](https://github.com/aown-aamir)
 
 
 ## Let's Connect
