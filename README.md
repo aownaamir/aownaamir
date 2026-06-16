@@ -37,6 +37,6 @@ Community marketplace connecting local shopkeepers with residents.
 
 ## Connect
 
-- LinkedIn: linkedin.com/in/aown-aamir
-- Portfolio: aown-aamir.vercel.app
+- LinkedIn: [linkedin.com/in/aown-aamir](https://www.linkedin.com/in/aown-aamir/)
+- Portfolio: [aown-aamir.vercel.app](https://aown-aamir.vercel.app/)
 - Email: aown.seecs@gmail.com
