@@ -1,4 +1,4 @@
-# I'm Aown Aamir
+# Aown Aamir
 
 Engineering Graduate from NUST with hands-on experience building full-stack web and mobile applications.
 
