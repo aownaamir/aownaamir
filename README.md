@@ -1,7 +1,7 @@
 # Aown Aamir
 
 ![React](https://img.shields.io/badge/React-Developer-blue)
-![Node.js/MongoDB](https://img.shields.io/badge/Node.js-Backend-green)
+![Node.js/MongoDB](https://img.shields.io/badge/Node.js/MongoDB-Backend-green)
 ![Next.js](https://img.shields.io/badge/Next.js-Fullstack-black)
 ![React Native](https://img.shields.io/badge/React_Native-Mobile-purple)
 
