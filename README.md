@@ -28,11 +28,6 @@ MongoDB, PostgreSQL, Supabase, NeonDB
 Git, Vercel, Render, Postman, Expo
 
 
-## GitHub Stats
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=aown-aamir&show_icons=true&theme=radical) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aown-aamir&layout=compact&theme=radical)](https://github.com/aown-aamir)
-
-
 ## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/aown-aamir/)
