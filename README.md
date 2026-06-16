@@ -13,11 +13,11 @@ Engineering Graduate from NUST with hands-on experience building full-stack web 
 ## Tech Stack
 
 **Frontend:**
-React, Next.js, React Native, Tailwind CSS
+React, Next.js, React Native, Tailwind CSS \n
 **Backend:**
-Node.js, Express.js, Django, REST APIs
+Node.js, Express.js, Django, REST APIs \n
 **Databases:**
-MongoDB, PostgreSQL, Prisma, Supabase
+MongoDB, PostgreSQL, Prisma, Supabase \n
 
 **Tools:**
 Git, Docker, Postman, Vercel, Render, Expo
