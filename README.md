@@ -1,8 +1,6 @@
 # Aown Aamir
 
-Engineering Graduate from NUST with hands-on experience building full-stack web and mobile applications.
-
-I enjoy turning ideas into products using React, Next.js, React Native, Node.js, and modern cloud tooling. Currently exploring AI, DevOps, and scalable backend systems.
+Engineering Graduate from NUST with hands-on experience building full-stack web and mobile applications. I enjoy turning ideas into products using React, Next.js, React Native, Node.js, and modern cloud tooling. Currently exploring AI, DevOps systems
 
 ## Tech Stack
 
