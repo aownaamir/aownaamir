@@ -1,4 +1,4 @@
-# Hi, I'm Aown Aamir 👋
+# I'm Aown Aamir
 
 Engineering Graduate from NUST with hands-on experience building full-stack web and mobile applications.
 
@@ -7,26 +7,26 @@ I enjoy turning ideas into products using React, Next.js, React Native, Node.js,
 ## Tech Stack
 
 **Frontend**
-React • Next.js • React Native • Tailwind CSS
+React, Next.js, React Native, Tailwind CSS
 
 **Backend**
-Node.js • Express.js • Django • REST APIs
+Node.js, Express.js, Django, REST APIs
 
 **Databases**
-MongoDB • PostgreSQL • Prisma • Supabase
+MongoDB, PostgreSQL, Prisma, Supabase
 
 **Tools**
-Git • Docker • Postman • Vercel • Render • Expo
+Git, Docker, Postman, Vercel, Render, Expo
 
 ## Featured Projects
 
-🚗 **Car Rental Platform**
+**Car Rental Platform**
 Fleet management, bookings, Google Maps integration, and Stripe payments.
 
-📱 **Socialight**
-Mobile platform connecting influencers and venues for event collaborations.
+**ELD Trip Plannar**
+Driver trip planning system with automated HOS ELD log generation
 
-🛒 **Ichra Commerce**
+**Ichra Commerce**
 Community marketplace connecting local shopkeepers with residents.
 
 ## Connect
