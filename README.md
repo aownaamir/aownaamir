@@ -1,11 +1,11 @@
-# Aown Aamir | Full-Stack Web & Mobile App Developer
+# Aown Aamir | NUST’26 Engineer | Lifelong Learner | DevOps | Fullstack Development
 
 I'm a full-stack web and mobile app developer from Lahore, currently based in Islamabad.  
 I'm passionate about building real-world digital solutions, especially for communities that are often left behind.  
 Outside of code, I lead Seerah study circles and design creative Islamic content for students.
 
 
-## What I'm Working On
+## Some of my projects
 
 - **Ichra Commerce App** – A platform to connect local shopkeepers and residents (Next.js + MongoDB + Express)
 - **React Native Projects** – Building cross-platform apps with clean UI and simple logic
@@ -13,16 +13,19 @@ Outside of code, I lead Seerah study circles and design creative Islamic content
 - Learning AI/ML and playing around with Raspberry Pi projects when I find the time
 
 
-## Tech Stack I Use Often
+## Tech Stack I like to Use
 
 **Frontend**  
 React, Next.js, Tailwind CSS
 
 **Backend**  
-Node.js, Express, MongoDB
+Node.js, Express, Django, Prisma
+
+**Databases**  
+MongoDB, PostgreSQL, Supabase, NeonDB
 
 **Tools**  
-GitHub, Vercel, Render, Postman, Expo
+Git, Vercel, Render, Postman, Expo
 
 
 ## GitHub Stats
@@ -34,7 +37,5 @@ GitHub, Vercel, Render, Postman, Expo
 
 - [LinkedIn](https://www.linkedin.com/in/aown-aamir/)
 - [Upwork](https://www.upwork.com/freelancers/~your-profile)
-- [Portfolio / Brand: Lagger's Lab](https://yourportfolio.com)
+- [Portfolio](https://yourportfolio.com)
 
-
-> Just assume some catchy stuff here 😎
