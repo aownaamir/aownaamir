@@ -1,36 +1,36 @@
-# Aown Aamir | NUST’26 Engineer | Lifelong Learner | DevOps | Fullstack Development
+# Hi, I'm Aown Aamir 👋
 
-I'm a full-stack web and mobile app developer from Lahore, currently based in Islamabad.  
-I'm passionate about building real-world digital solutions, especially for communities that are often left behind.  
-Outside of code, I lead Seerah study circles and design creative Islamic content for students.
+Engineering Graduate from NUST with hands-on experience building full-stack web and mobile applications.
 
+I enjoy turning ideas into products using React, Next.js, React Native, Node.js, and modern cloud tooling. Currently exploring AI, DevOps, and scalable backend systems.
 
-## Some of my projects
+## Tech Stack
 
-- **Ichra Commerce App** – A platform to connect local shopkeepers and residents (Next.js + MongoDB + Express)
-- **React Native Projects** – Building cross-platform apps with clean UI and simple logic
-- **Campus Noor Grid** – A daily cartoon-style Islamic series to engage uni students in a fun way
-- Learning AI/ML and playing around with Raspberry Pi projects when I find the time
+**Frontend**
+React • Next.js • React Native • Tailwind CSS
 
+**Backend**
+Node.js • Express.js • Django • REST APIs
 
-## Tech Stack I like to Use
+**Databases**
+MongoDB • PostgreSQL • Prisma • Supabase
 
-**Frontend**  
-React, Next.js, Tailwind CSS
+**Tools**
+Git • Docker • Postman • Vercel • Render • Expo
 
-**Backend**  
-Node.js, Express, Django, Prisma
+## Featured Projects
 
-**Databases**  
-MongoDB, PostgreSQL, Supabase, NeonDB
+🚗 **Car Rental Platform**
+Fleet management, bookings, Google Maps integration, and Stripe payments.
 
-**Tools**  
-Git, Vercel, Render, Postman, Expo
+📱 **Socialight**
+Mobile platform connecting influencers and venues for event collaborations.
 
+🛒 **Ichra Commerce**
+Community marketplace connecting local shopkeepers with residents.
 
-## Let's Connect
+## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/aown-aamir/)
-- [Upwork](https://www.upwork.com/freelancers/~your-profile)
-- [Portfolio](https://yourportfolio.com)
-
+- LinkedIn: linkedin.com/in/aown-aamir
+- Portfolio: aown-aamir.vercel.app
+- Email: aown.seecs@gmail.com
