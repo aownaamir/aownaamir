@@ -2,10 +2,10 @@
 
 ![React](https://img.shields.io/badge/React-Developer-blue)
 ![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
-![Django](https://img.shields.io/badge/Django-Backend-grey)
+![Django](https://img.shields.io/badge/Django-Backend-white)
 ![Next.js](https://img.shields.io/badge/Next.js-Fullstack-black)
-![React Native](https://img.shields.io/badge/React_Native-Mobile-purple)
-![Databases](https://img.shields.io/badge/MongoDB/PostgreSQL-Databases-Purple)
+![React Native](https://img.shields.io/badge/React_Native-Mobile-pink)
+![Databases](https://img.shields.io/badge/MongoDB/PostgreSQL-Databases-purple)
 
 Engineering Graduate from NUST with hands-on experience building full-stack web and mobile applications. I enjoy turning ideas into products using React, Next.js, React Native, Node.js, and modern cloud tooling. Currently exploring AI, DevOps systems
 
